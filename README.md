@@ -46,4 +46,25 @@ Following are the categorizes in which computers are categorized into
 
 -------
 
+## History of Computers
+The history of computing is divided into <ins>**five eras**</ins>, each representing a major technological development:
+* <ins>**1st Generation (1940-1956):**</ins> **<ins>what was discovered: </ins>** Vacuum tubes.
+* <ins>**2nd Generation (1956-1963):**</ins> **<ins>what was discovered: </ins>** Transistors.
+* <ins>**3rd Generation (1963-1971):**</ins>**<ins>what was discovered: </ins>** Integrated Circuits (ICs).
+* <ins>**4th Generation (1971-Present):**</ins> **<ins>what was discovered: </ins>** Microprocessors (VLSI).
+* <ins>**5th Generation (Present and Beyond):**</ins> **<ins>what was discovered: </ins>** Artificial Intelligence.
+-----
+## Tools Used to Make This README.md file
+This Lab tasks assingment is made using the following tools:
+1. **a version control system:**--> [Git](https://git-scm.com/)
+2. **a cloud platform:**-->[GitHib](https://github.com/)
+3. ** to format this README.md file-->we used Markdown language
+
+## Project Flow 
+The representation of the flow of this whole readme file is mentioned below
+* Click on **Commit changes**-->to record what is changed each time you click on it.
+* Under **Commit message**--> choose the message you find relevant to what you're changing.
+* Click **Commit Changes**-->to make the changes valid and final.
+
+--------
 
